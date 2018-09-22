@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6507e89f-1420-4cfd-b3f5-f195c4f2d5f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/normal/main.htm" beforeDir="false" afterPath="$PROJECT_DIR$/normal/main.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/tips.htm" beforeDir="false" afterPath="$PROJECT_DIR$/normal/tips.htm" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="aboutus.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/normal/aboutus.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+            <state relative-caret-position="423">
+              <caret line="35" column="56" lean-forward="true" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -28,8 +29,8 @@
       <file leaf-file-name="zh_cn.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/normal/main_files/zh_cn.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="2744" column="23" lean-forward="true" selection-start-line="2744" selection-start-column="23" selection-end-line="2744" selection-end-column="23" />
+            <state relative-caret-position="224">
+              <caret line="2913" column="5" selection-start-line="2913" selection-start-column="5" selection-end-line="2913" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -43,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/normal/main.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="92" column="61" lean-forward="true" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
+            <state relative-caret-position="812">
+              <caret line="119" column="89" selection-start-line="119" selection-start-column="89" selection-end-line="119" selection-end-column="89" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tips.htm" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tips.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/normal/tips.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+            <state relative-caret-position="723">
+              <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -89,7 +90,7 @@
       <find>cookie</find>
       <find>https://cr.kunlun.com/blog/release-notes/september-update.html</find>
       <find>home-main-news-item-date</find>
-      <find>div id=&quot;app&quot;</find>
+      <find />
       <find>https://cr.kunlun.com/blog/news/what-are-trade-tokens.html</find>
       <find>https://cr.kunlun.com/uploaded-images-blog/cn_balance-960.jpg?mtime=20180831110016</find>
       <find>https://suyigame.github.io/normal/tips.htm</find>
@@ -110,10 +111,10 @@
       <list>
         <option value="$PROJECT_DIR$/normal/thanks.htm" />
         <option value="$PROJECT_DIR$/normal/versionone.htm" />
-        <option value="$PROJECT_DIR$/normal/tips.htm" />
         <option value="$PROJECT_DIR$/normal/aboutus.htm" />
         <option value="$PROJECT_DIR$/normal/allclear.htm" />
         <option value="$PROJECT_DIR$/normal/main.htm" />
+        <option value="$PROJECT_DIR$/normal/tips.htm" />
       </list>
     </option>
   </component>
@@ -126,10 +127,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-65" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-59" />
     <option name="y" value="23" />
-    <option name="width" value="1635" />
+    <option name="width" value="1636" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -196,15 +197,15 @@
       <workItem from="1537383524835" duration="2716000" />
       <workItem from="1537400051906" duration="2899000" />
       <workItem from="1537350000098" duration="367000" />
-      <workItem from="1537584168734" duration="4256000" />
+      <workItem from="1537584168734" duration="5303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10238000" />
+    <option name="totallyTimeSpent" value="11285000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1636" height="1027" extended-state="6" />
+    <frame x="-73" y="23" width="1636" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15770172" />
@@ -319,20 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/normal/main_files/zh_cn.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2744" column="23" lean-forward="true" selection-start-line="2744" selection-start-column="23" selection-end-line="2744" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/normal/aboutus.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="47" column="40" lean-forward="true" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/normal/allclear.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -347,17 +334,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/normal/tips.htm">
+    <entry file="file://$PROJECT_DIR$/normal/aboutus.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+        <state relative-caret-position="423">
+          <caret line="35" column="56" lean-forward="true" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normal/main_files/zh_cn.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="2913" column="5" selection-start-line="2913" selection-start-column="5" selection-end-line="2913" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/normal/main.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="92" column="61" lean-forward="true" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
+        <state relative-caret-position="812">
+          <caret line="119" column="89" selection-start-line="119" selection-start-column="89" selection-end-line="119" selection-end-column="89" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -366,6 +360,13 @@
             <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/normal/tips.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
         </state>
       </provider>
     </entry>
